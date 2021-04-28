@@ -10,15 +10,15 @@
 
 1. Deployed with Heroku (2 routes)
 
-    - [Heroku / Sign Up]()
-    - [Heroku/ Sign In]()
+    - [Heroku / Sign Up](https://barysevich-bearer-auth.herokuapp.com/signup)
+    - [Heroku/ Sign In](https://barysevich-bearer-auth.herokuapp.com/signin)
 
 
 
 2. Github URLs
 
-    - [https://github.com/YuliyaBarysevich/basic-auth/compare/dev?expand=1]()
-    - [Pull Request / GitHub]()
+    - [GitHub Pull Request](https://github.com/YuliyaBarysevich/bearer-auth/pull/1)
+    - [GitHub Actions](https://github.com/YuliyaBarysevich/bearer-auth/runs/2454006918?check_suite_focus=true)
   
 ### User Stories 
 
@@ -42,7 +42,8 @@
 - **.env requirements** 
 i.e.
   - PORT - Port Number
-  - MONGODB_URI = `mongodb://localhost:27017/auth`
+  - MONGODB_URI = `mongodb://localhost:27017/bearer-auth`
+  - SECRET = 12345
 
 ### How to initialize/run your application
 
