@@ -10,8 +10,10 @@
 
 1. Deployed with Heroku (2 routes)
 
-    - [Heroku / Sign Up](https://barysevich-bearer-auth.herokuapp.com/signup)
-    - [Heroku/ Sign In](https://barysevich-bearer-auth.herokuapp.com/signin)
+    - [Heroku / Sign Up / POST](https://barysevich-bearer-auth.herokuapp.com/signup)
+    - [Heroku/ Sign In / POST](https://barysevich-bearer-auth.herokuapp.com/signin)
+    - [Heroku/ Users Route / GET](https://barysevich-bearer-auth.herokuapp.com/users)
+    - [Heroku/ Secret Route / GET](https://barysevich-bearer-auth.herokuapp.com/secret)
 
 
 
